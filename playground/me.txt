@@ -1,4 +1,1 @@
-{{#USER}}
-Name:Srija
-Skills: GIT,MAVEN,JENKINS,DOCKER,KUBERNETES,TERRAFORM,ANSIBLE,PROMETHEUS,GRAFANAEmail:reachsrija@gmail.com	
-{{/User}}
+
